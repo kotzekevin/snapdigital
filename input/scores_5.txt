@@ -1,0 +1,10 @@
+Lions 3, Snakes 3
+Tarantulas 1, FC Awesome 0
+Lions 1, FC Awesome 1
+Lions 4, Grouches 0
+Grouches 2, Tigers 2
+Snakes 1, FC Awesome 1
+Tarantulas 10, Tigers 5
+Grouches 6, Rabbits 2
+Snakes 1, Rabbits 2
+Grouches 2, Tarantulas 2
